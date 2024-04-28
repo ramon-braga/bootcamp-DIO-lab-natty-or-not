@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# DIO Bootcamp - Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Durante minha participação no bootcamp Python AI Backend Developer, fui desafiado a explorar as IAs generativas para criar conteúdo envolvente e realista. Utilizei uma gama de formatos, como imagens, textos, áudios e vídeos, para me aprofundar no campo das IAs generativas. O resultado foi a produção de um vídeo simulado em que um professor discute os benefícios da IA na vida de pessoas com deficiência, ressaltando as inovações e oportunidades proporcionadas por essa fascinante tecnologia.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+CHAT-GPT: Geração de texto
+VIDENOZ AI: Transcrição de áudio e vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Durante a criação, foi fascinante trabalhar com essas ferramentas de IA generativa. Percebi o quanto a IA está progredindo rapidamente, oferecendo novas oportunidades para a produção de conteúdo. Foi uma experiência valiosa que me possibilitou explorar e entender o potencial ilimitado das IAs generativas.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Assista ao vídeo aqui](https://drive.google.com/file/d/18EWKuBt3Cb9dNr9Q0rVE8obU0oQUoNxI/view?usp=drive_link)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+### Texto usado:
+A Inteligência Artificial (IA) desempenha um papel crucial na promoção da inclusão de pessoas com deficiência, oferecendo soluções inovadoras que melhoram a acessibilidade e a qualidade de vida. Por meio de tecnologias como reconhecimento de voz e processamento de linguagem natural, a IA capacita indivíduos com deficiência visual ou motora a interagir de forma mais eficaz com dispositivos e aplicativos, abrindo novas oportunidades de aprendizado, comunicação e trabalho. Além disso, a IA facilita a automação de tarefas rotineiras e repetitivas, permitindo que as pessoas com deficiência se concentrem em atividades mais significativas e gratificantes. No contexto do mercado de trabalho, a IA também desempenha um papel fundamental ao fornecer ferramentas de adaptação e assistência que ajudam os profissionais com deficiência a realizar suas funções com eficiência e independência. Ao capacitar e apoiar pessoas com deficiência, a IA não apenas promove a inclusão social, mas também contribui para uma sociedade mais equitativa e diversificada.
 
-### Exemplos e Insigths
+## 💭 Reflexão 
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Durante essa jornada explorando as IAs generativas, observei que ainda há muito espaço para crescimento nesse campo promissor da inteligência artificial. Embora a tecnologia esteja avançando rapidamente, há margem para melhorias e inovações futuras. Acredito que essas tecnologias podem impactar positivamente a vida das pessoas e promover uma sociedade mais inclusiva e conectada. Estou interessado em acompanhar o desenvolvimento dessas inovações e em como elas podem ser aplicadas para o benefício da humanidade em geral.
